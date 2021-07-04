@@ -1,2 +1,3 @@
-# mocha-PoC-4675
-quick &amp; dirty demo of issue 4675
+# mocha PoC \#4675
+
+Quick &amp; dirty demo of issue [\#4675](https://github.com/mochajs/mocha/issues/4675)
